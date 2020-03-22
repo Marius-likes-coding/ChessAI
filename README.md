@@ -1,1 +1,1 @@
-# ChessAI
+# paprika
